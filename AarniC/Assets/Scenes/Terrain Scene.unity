@@ -254,6 +254,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5.5
   controller: {fileID: 325105092}
+  mouseSpeed: 3
+  cursorLock: 1
 --- !u!1 &879735662
 GameObject:
   m_ObjectHideFlags: 0
